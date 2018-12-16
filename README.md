@@ -17,3 +17,5 @@
 :---|---|---
 1|HW1|[ссылка](https://github.com/alyonamt/python-dh-hw/blob/master/HW1.ipynb)
 2|HW2|[ссылка](https://github.com/alyonamt/python-dh-hw/blob/master/HW2.ipynb)
+3|HW3|[ссылка](https://github.com/alyonamt/python-dh-hw/blob/master/HW3.ipynb)
+4|HW4|[ссылка](https://github.com/alyonamt/python-dh-hw/blob/master/HW4.ipynb)
